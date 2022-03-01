@@ -1,0 +1,35 @@
+.switch-rectangle {
+    width: 150px;
+    height: 73px;
+    right: 123px;
+    position: fixed;
+    background-image: url('../../images/switch/Rettangolo.png');
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    bottom: 58px;
+    background-repeat: no-repeat;
+    z-index: 10;
+}
+
+.switch-first-group {
+    width: 30%;
+    height: 50%;
+    background-image: url('../../images/switch/Raggruppa2.png');
+    background-repeat: no-repeat;
+}
+
+.switch-second-group {
+    width: 30%;
+    height: 50%;
+    background-image: url('../../images/switch/Raggruppa1.png');
+    background-repeat: no-repeat
+}
+
+.switch-line {
+    margin-top: 6%;
+    width: 2%;
+    height: 100%;
+    background-image: url('../../images/switch/Linea.png');
+    background-repeat: no-repeat
+}

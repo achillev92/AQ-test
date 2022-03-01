@@ -1,0 +1,26 @@
+.header {
+    height: 106px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 124px;
+    margin-right: 123px;
+    width: calc( 100vw - 123px - 124px);
+}
+
+.logo {
+    padding-top: 35px;
+    height: 37px;
+    width: 66px;
+}
+
+.line {
+    position: absolute;
+    top: 106px;
+    left: 0px;
+    width: 100%;
+}
+
+.label {
+    padding-top: 48px;
+    font-size: 20px;
+}

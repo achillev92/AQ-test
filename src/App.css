@@ -1,0 +1,21 @@
+.App {
+  height: 100vh;
+}
+
+@import url('https://fonts.googleapis.com/css?family=playfair+display');
+
+body {
+  font-family: 'playfair display';
+}
+
+.home {
+  display: flex;
+  height: calc(100% - 106px);
+  margin-left: 124px;
+  margin-right: 123px;
+  width: calc( 100vw - 123px - 124px);
+}
+
+.home::-webkit-scrollbar {
+  display: none;
+}

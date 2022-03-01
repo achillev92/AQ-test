@@ -1,0 +1,13 @@
+.slider-container {
+    width: 65%;
+    height: 100%;
+    display: flex;
+}
+
+.photo-label {
+    font-size: 40px;
+    bottom: -100px;
+    position: absolute;
+    width: 400px;
+    text-align: center;
+}
